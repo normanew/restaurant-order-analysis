@@ -101,18 +101,6 @@ Month = FORMAT(order_details[Order Date], "MMM YYYY")
 
 ---
 
-## Dashboard Pages
-
-| Page | Description |
-|---|---|
-| Page 1 | High Spend Order Analysis |
-| Page 2 | Order Timing — by day and hour |
-| Page 3 | Cuisine & Menu Item Performance |
-
-**[View the live report here](#)** *(replace with your Power BI publish-to-web link)*
-
----
-
 ## Recommendations
 
 1. **Expand the Asian menu** — highest order volume signals strong customer demand
@@ -127,10 +115,3 @@ Month = FORMAT(order_details[Order Date], "MMM YYYY")
 1. Clone or download this repository
 2. Open `restaurant_analysis.pbix` in **Power BI Desktop** (free download at [powerbi.microsoft.com](https://powerbi.microsoft.com))
 3. If prompted, re-link the CSV data sources to your local file path via **Transform Data → Data Source Settings**
-
----
-
-## Author
-
-**[Your Name]**
-[LinkedIn](#) • [Portfolio](#) • [GitHub](#)
